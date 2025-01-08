@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Deployed Version 1 Public URL - [`Vercel_App_V1`](uber-clone-eight-nu.vercel.app)
+
 ## Getting Started
 
 First, run the development server:
