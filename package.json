@@ -1,0 +1,23 @@
+{
+  "name": "uber_clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.9.6",
+    "@react-google-maps/api": "^2.20.5",
+    "next": "15.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-places-autocomplete": "^4.1.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
