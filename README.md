@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Deployed Version 1 Public URL - [`Vercel_App_V1`](uber-clone-eight-nu.vercel.app)
 
+<img src="/images/uberClone1.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone2.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone3.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone4.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone5.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone6.png" style="height: 500px; width:800px;" />
+<img src="/images/uberClone7.png" style="height: 500px; width:800px;" />
+
 ## Getting Started
 
 First, run the development server:
