@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Deployed Version 1 Public URL - [`Vercel_App_V1`]([https://uber-clone-eight-nu.vercel.app/])
+Deployed Version 1 Public URL - [`Vercel_App_V1`]([https://uber-clone-eight-nu.vercel.app/).
 
 <img src="/images/uberClone1.png" style="height: 500px; width:800px;" />
 <img src="/images/uberClone2.png" style="height: 500px; width:800px;" />
